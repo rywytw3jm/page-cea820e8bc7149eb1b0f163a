@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-3b31c80675.outspoken.cn/sitemap.xml
